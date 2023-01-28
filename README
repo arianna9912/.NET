@@ -1,3 +1,0 @@
-Este es un ejemplo de una web API usando .NET Core 6 y C#.
-Incluye un CRUD de productos y autenticar usuario con JWT.
-Base de datos SQL Server
